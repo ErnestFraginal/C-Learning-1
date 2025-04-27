@@ -1,0 +1,4 @@
+string party;
+Console.WriteLine("Who will you send in to shoot the roulette?");
+party = Console.ReadLine();
+Console.WriteLine(party + " has been deployed!");

@@ -1,0 +1,5 @@
+Console.WriteLine("Current Party:");
+Console.WriteLine("Joker: Level 5 - Arsene");
+Console.WriteLine("Morgana: Level 5 - Zoro");
+Console.WriteLine("Ryuji: Level 5 - Captain Kidd");
+Console.WriteLine("Ann: Level 5 - Carmen");

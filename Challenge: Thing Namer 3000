@@ -1,0 +1,15 @@
+//Console.WriteLine("What kind of thing are we talking about?"); //Char
+//string a = Console.ReadLine(); //Asks for variable of object
+//Console.WriteLine("How would you describe it? Big? Azure? Tattered?"); //Asks for description
+//string b = Console.ReadLine(); /* Asks for variable of object's description */
+//string c = "of Doom"; //Preset variable 1
+//string d = "3000"; //Preset variable 2
+//Console.WriteLine("The " + b + " " + a + " of " + c + " " + d + "!"); This has a bug in that
+//it is adding "of" with String c already having it.
+
+//Improved version
+Console.WriteLine("What kind of thing are we talking about?");
+string a = Console.ReadLine();
+Console.WriteLine("How would you describe it? Big? Azure? Tattered?");
+string b = Console.ReadLine();
+Console.WriteLine("The " + b + " " + a + " of Doom 3000!");
